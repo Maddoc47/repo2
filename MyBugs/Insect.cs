@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MyBugs
 {
-    class Insect
+    abstract class Insect
     {
+        //Let's get some insect properties
     }
 }
