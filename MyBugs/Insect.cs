@@ -9,5 +9,8 @@ namespace MyBugs
     abstract class Insect
     {
         //Let's get some insect properties
+        
+        //And a constructor
+        public Insect() { }   
     }
 }
