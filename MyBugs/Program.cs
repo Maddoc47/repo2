@@ -10,6 +10,9 @@ namespace MyBugs
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to our little program!\nWe are publishing this to GitHub!");
+
+            Console.ReadLine();
         }
     }
 }
